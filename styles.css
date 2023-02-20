@@ -1,2 +1,20 @@
-
+img{
+	height:40px;
+	width:40px;
+	border-radius:20px;
+	}
+heading{
+	display:flex;
+	font-size:20px;
+	color:blue;
+}
+#link {
+	color:green;
+}
+#skills{
+	color:green;
+}
+#projects{
+	color:green;
+}
 /* Your CSS Code here. */
